@@ -1,0 +1,5 @@
+com\example\StudentApp\StudentAppApplication.class
+com\example\StudentApp\Repository\StudentRepository.class
+com\example\StudentApp\controller\StudentController.class
+com\example\StudentApp\Exception\ResourceNotFoundException.class
+com\example\StudentApp\model\Student.class
